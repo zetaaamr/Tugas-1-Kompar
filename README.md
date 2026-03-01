@@ -18,8 +18,6 @@ Repository ini berisi implementasi konsep:
   - MISD
   - MIMD
 
-Seluruh implementasi mengacu pada materi PPT perkuliahan dan menggunakan pendekatan berbasis matrix.
-
 ## Struktur File
 - serial_matrix.py
 - parallel_matrix.py
@@ -27,6 +25,3 @@ Seluruh implementasi mengacu pada materi PPT perkuliahan dan menggunakan pendeka
 - simd_matrix.py
 - misd_matrix.py
 - mimd_matrix.py
-
-## Tujuan
-Memahami konsep komputasi paralel, perbedaan serial dan parallel computing, serta implementasi arsitektur Flynn dalam Python.
